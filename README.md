@@ -42,7 +42,7 @@ The project consists of three main scripts:
 
 ```bash
 git clone https://github.com/xma24/lnscc.git
-cd lnscc-clustering
+cd lnscc
 ```
 
 ### Set Up a Virtual Environment
