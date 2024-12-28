@@ -8,9 +8,11 @@ This repository contains the implementation of the paper:
 
 **"Locally Normalized Soft Contrastive Clustering for Compact Clusters"**
 
-[![LNSCC Train (CIFAR10)]](github/lnscc_train.gif)
+LNSCC Train (CIFAR10)
+<img src="github/lnscc_train.gif" alt="LNSCC Train (CIFAR10)" width="640" />
 
-[![LNSCC Test (CIFAR10)]](github/lnscc_test.gif)
+LNSCC Test (CIFAR10)
+<img src="github/lnscc_test.gif" alt="LNSCC Test (CIFAR10)" width="640" />
 
 ## Overview
 
